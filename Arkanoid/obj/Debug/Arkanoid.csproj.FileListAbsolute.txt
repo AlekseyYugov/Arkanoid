@@ -1,0 +1,13 @@
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\sfml-audio.dll
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\sfml-graphics.dll
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\sfml-system.dll
+D:\Project_C#\Arkanoid\Arkanoid\bin\Debug\sfml-window.dll
+D:\Project_C#\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.AssemblyReference.cache
+D:\Project_C#\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.SuggestedBindingRedirects.cache
+D:\Project_C#\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CoreCompileInputs.cache
+D:\Project_C#\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.CopyComplete
+D:\Project_C#\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+D:\Project_C#\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
